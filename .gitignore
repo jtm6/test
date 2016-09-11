@@ -1,1 +1,9 @@
 #
+.Rproj.user
+*.cpp
+.cpp
+*.o
+.o
+.Rproj
+RcppExports.R
+*RcppExports.R
